@@ -1,8 +1,7 @@
-import PropTypes from "prop-types"
 import Product from "./Product"
 
 
-function Products(prop){
+const Products = () => {
     return(
         <div>
             <h1 id="productsTitle">Best Sellers</h1>
@@ -20,8 +19,5 @@ function Products(prop){
     )
 }
 
-Products.propTypes = {
-    title: PropTypes.string
-};
 
 export default Products;

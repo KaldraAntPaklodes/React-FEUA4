@@ -1,0 +1,32 @@
+.heroDiv{
+  width: 20rem;
+  height: 10rem;
+  background-color: blue;
+  color: black;
+}
+
+button{
+  width: 10rem;
+  height: 5rem;
+  font-weight: bold;
+}
+
+.textButton{
+  color: blue;
+  background-color: white;
+  border: none;
+}
+
+.containedButton{
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  border-color: blue;
+}
+
+.outlinedButton{
+  color: blue;
+  border-color: blue;
+  background-color: white;
+  border-radius: 5px;
+}
