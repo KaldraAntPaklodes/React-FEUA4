@@ -1,0 +1,4 @@
+.nameLine{
+  display: flex;
+  flex-direction: row;
+}
