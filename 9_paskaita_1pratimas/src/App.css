@@ -1,0 +1,23 @@
+.card{
+  width: 15rem;
+  height: 20rem;
+  border: 1px gray solid;
+  text-align: center;
+  margin: 1rem;
+}
+
+.cards{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.price{
+  color: red;
+}
+
+.delete{
+  background-color: white;
+  width: 5rem;
+  height: 2rem;
+}
