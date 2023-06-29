@@ -15,7 +15,7 @@ const App = () => {
   };
 
   const taskDelete = (index) => {
-    addTasks((prevTasks) => prevTasks.filter((_, i) => i !== index));
+    addTasks((tasks) => tasks.filter((_, i) => i !== index));
   };
 
   useEffect(() => {   

@@ -1,0 +1,23 @@
+.aboutMeContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color:#23286b;
+    color: white;
+    height: 22rem;
+  }
+  
+  .aboutMeContainer h1,
+  .aboutMeContainer h3 {
+    margin: 10px;
+  }
+
+  .h1{
+    padding-top: 5rem;
+    font-size: 28px
+  }
+
+  h3{
+    width: 40rem;
+  }

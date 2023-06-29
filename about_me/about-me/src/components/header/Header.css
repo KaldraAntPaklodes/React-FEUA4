@@ -1,0 +1,29 @@
+.header {
+    padding: 20px;
+    text-align: center;
+  }
+
+h1{
+    margin-bottom: 10px;
+  }
+    
+  .profileImg-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+  }
+  
+  .profileImg {
+    max-width: 15rem;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  }
+
+  .name{
+    font-size: 32px;
+    font-weight: 900;
+  }
+
+  .subtext{
+    font-size: 18px;
+  }

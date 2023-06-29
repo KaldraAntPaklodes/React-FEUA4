@@ -1,0 +1,15 @@
+.layoutBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logoContainer {
+    margin-right: 10px; 
+    width: 8rem;
+  }
+  
+  .hamburgerContainer {
+    margin-left: 10px; /* Adjust the desired space between logo and hamburger */
+  }
+  

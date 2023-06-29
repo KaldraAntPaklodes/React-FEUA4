@@ -1,0 +1,9 @@
+.hamburgerBox{
+    display: flex;
+    justify-content: flex-end;
+    padding: 2rem;
+}
+
+.hamburgerButton{
+    padding: 2rem 0px;
+}
